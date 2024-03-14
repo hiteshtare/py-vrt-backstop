@@ -1,0 +1,76 @@
+{
+  "id": "english-blogs",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+    },
+    {
+      "label": "iPhone",
+      "width": 375,
+      "height": 667
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "“6 Spiritually Revolutionary Ideas That Paramahansa Yogananda Brought to the World” by Swami Chidananda Giri",
+      "referenceUrl": "https://yssofindia.org/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri",
+      "url": "https://test.yssofindia.org/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri?3333",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "Paramahansa Yogananda on “Uncovering the Peace of the Soul”",
+      "referenceUrl": "https://yssofindia.org/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul",
+      "url": "https://test.yssofindia.org/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul?3334",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "“A Spiritual Approach to World Peace” by Swami Bhumananda Giri",
+      "referenceUrl": "https://yssofindia.org/blog/a-spiritual-approach-to-world-peace-by-swami-bhumananda-giri",
+      "url": "https://test.yssofindia.org/blog/a-spiritual-approach-to-world-peace-by-swami-bhumananda-giri?3335",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
