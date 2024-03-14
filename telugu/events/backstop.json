@@ -1,0 +1,56 @@
+{
+  "id": "telugu-events",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {"label": "2-Commemoration Event - Past Event / Telugu","referenceUrl": "https://yssofindia.org/te/event/mahavatar-babaji-smriti-divas","url": "https://test.yssofindia.org/te/event/mahavatar-babaji-smriti-divas?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "6-Monastic Tour - 1 day - Past Event / Telugu","referenceUrl": "https://yssofindia.org/te/event/monastic-tour-vizianagaram-july-2023","url": "https://test.yssofindia.org/te/event/monastic-tour-vizianagaram-july-2023?5005","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "8-Monastic Tour - 3 days - Past Event / Telugu","referenceUrl": "https://yssofindia.org/te/event/monastic-tour-vijayawada-july-2023","url": "https://test.yssofindia.org/te/event/monastic-tour-vijayawada-july-2023?5007","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "10-Retreat - Past Event / Telugu","referenceUrl": "https://yssofindia.org/te/event/retreat-dwarahat-april-2023","url": "https://test.yssofindia.org/te/event/retreat-dwarahat-april-2023?5009","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "12-ODK Event - Past Event / Telugu","referenceUrl": "https://yssofindia.org/te/event/discourse-in-telugu-mar-26-2022","url": "https://test.yssofindia.org/te/event/discourse-in-telugu-mar-26-2022?5011","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "13-Sadhana Sangam / Telugu","referenceUrl": "https://yssofindia.org/te/event/sadhana-sangams","url": "https://test.yssofindia.org/te/event/sadhana-sangams?5012","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "15-Tuesday Meditation / Telugu","referenceUrl": "https://yssofindia.org/te/event/yss-sannyasi-led-meditation-tuesdays","url": "https://test.yssofindia.org/te/event/yss-sannyasi-led-meditation-tuesdays?5014","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "16-Sunday Long Meditation / Telugu","referenceUrl": "https://yssofindia.org/te/event/yss-sannyasi-led-3-hr-meditation-sundays","url": "https://test.yssofindia.org/te/event/yss-sannyasi-led-3-hr-meditation-sundays?5015","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "17-DLM / Telugu","referenceUrl": "https://yssofindia.org/te/event/devotee-led-online-meditations","url": "https://test.yssofindia.org/te/event/devotee-led-online-meditations?5016","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "20-IDOY / Telugu","referenceUrl": "https://yssofindia.org/te/international-day-of-yoga","url": "https://test.yssofindia.org/te/international-day-of-yoga?5019","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "21-IDOY - In-person Events / Telugu","referenceUrl": "https://yssofindia.org/te/international-day-of-yoga/in-person-events","url": "https://test.yssofindia.org/te/international-day-of-yoga/in-person-events?5020","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "22-February Sangam / Telugu","referenceUrl": "https://yssofindia.org/te/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023","url": "https://test.yssofindia.org/te/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023?5021","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "25-Monastic Tours / Telugu","referenceUrl": "https://yssofindia.org/te/programmes/monastic-tours","url": "https://test.yssofindia.org/te/programmes/monastic-tours?5024","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "26-Retreats / Telugu","referenceUrl": "https://yssofindia.org/te/see-all-retreat-centres","url": "https://test.yssofindia.org/te/see-all-retreat-centres?5025","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "27-ODK / Telugu","referenceUrl": "https://yssofindia.org/te/online-meditation","url": "https://test.yssofindia.org/te/online-meditation?5026","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "28-ODK - How to participate / Telugu","referenceUrl": "https://yssofindia.org/te/online-meditation/how-to-participate","url": "https://test.yssofindia.org/te/online-meditation/how-to-participate?5027","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "29-ODK Calendar / Telugu","referenceUrl": "https://yssofindia.org/te/online-meditation/calendar","url": "https://test.yssofindia.org/te/online-meditation/calendar?5028","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "30-ODK Helpdesk / Telugu","referenceUrl": "https://yssofindia.org/te/online-meditation/helpdesk","url": "https://test.yssofindia.org/te/online-meditation/helpdesk?5029","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "31-Events archive / Telugu","referenceUrl": "https://yssofindia.org/te/event","url": "https://test.yssofindia.org/te/event?5030","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "32-Past events archive / Telugu","referenceUrl": "https://yssofindia.org/te/past-events","url": "https://test.yssofindia.org/te/past-events?5031","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

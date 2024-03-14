@@ -1,0 +1,80 @@
+{
+  "id": "telugu-priority-pages",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {"label": "1-Homepage / Telugu","referenceUrl": "https://yssofindia.org/te","url": "https://test.yssofindia.org/te?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "2-AOY AudioBook / Telugu","referenceUrl": "https://yssofindia.org/te/autobiography-of-a-yogi-regional-languages-free-audiobook","url": "https://test.yssofindia.org/te/autobiography-of-a-yogi-regional-languages-free-audiobook?8001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "3-Autobiography of a Yogi / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/autobiography-of-a-yogi","url": "https://test.yssofindia.org/te/paramahansa-yogananda/autobiography-of-a-yogi?8002","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "4-Translations Around the World / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/translations-around-the-world","url": "https://test.yssofindia.org/te/paramahansa-yogananda/translations-around-the-world?8003","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "5-Autobiography of a Yogi MP3 Edition / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/Autobiography-of-a-Yogi-mp3-edition","url": "https://test.yssofindia.org/te/paramahansa-yogananda/Autobiography-of-a-Yogi-mp3-edition?8004","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "6-Listen to Paramahansa Yogananda / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/listen-to-paramahansa-yogananda","url": "https://test.yssofindia.org/te/paramahansa-yogananda/listen-to-paramahansa-yogananda?8005","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "7-Books and Recordings / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/books-and-recordings","url": "https://test.yssofindia.org/te/paramahansa-yogananda/books-and-recordings?8006","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "8-Disciples Reminisce / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/disciples-reminisce","url": "https://test.yssofindia.org/te/paramahansa-yogananda/disciples-reminisce?8007","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "9-Comments and Reviews / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/Comments-Reviews","url": "https://test.yssofindia.org/te/paramahansa-yogananda/Comments-Reviews?8008","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "10-Stories of Close Disciples / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/first-encounters","url": "https://test.yssofindia.org/te/paramahansa-yogananda/first-encounters?8009","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "11-Educators & Scientific Community / Telugu","referenceUrl": "https://yssofindia.org/te/paramahansa-yogananda/educators-scientific-community","url": "https://test.yssofindia.org/te/paramahansa-yogananda/educators-scientific-community?8010","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "12-YSS Magazine / Telugu","referenceUrl": "https://yssofindia.org/te/spiritual/yogoda-satsanga-magazine","url": "https://test.yssofindia.org/te/spiritual/yogoda-satsanga-magazine?8011","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "13-Affirmations / Telugu","referenceUrl": "https://yssofindia.org/te/spiritual/affirmations","url": "https://test.yssofindia.org/te/spiritual/affirmations?8012","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "14-Affirmation Instructions / Telugu","referenceUrl": "https://yssofindia.org/te/spiritual/affirmation-instructions","url": "https://test.yssofindia.org/te/spiritual/affirmation-instructions?8013","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "15-Prayer / Telugu","referenceUrl": "https://yssofindia.org/te/spiritual/Prayer","url": "https://test.yssofindia.org/te/spiritual/Prayer?8014","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "16-Request a Prayer / Telugu","referenceUrl": "https://yssofindia.org/te/prayer","url": "https://test.yssofindia.org/te/prayer?8015","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "17-About YSS / Telugu","referenceUrl": "https://yssofindia.org/te/about","url": "https://test.yssofindia.org/te/about?8016","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "18-Aims & Ideals / Telugu","referenceUrl": "https://yssofindia.org/te/about/aims-and-ideals","url": "https://test.yssofindia.org/te/about/aims-and-ideals?8017","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "19-Monastic Order / Telugu","referenceUrl": "https://yssofindia.org/te/about/monastic-order","url": "https://test.yssofindia.org/te/about/monastic-order?8018","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "20-Sannyas / Telugu","referenceUrl": "https://yssofindia.org/te/about/Sannyas","url": "https://test.yssofindia.org/te/about/Sannyas?8019","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "21-4 stage of Monastic Life / Telugu","referenceUrl": "https://yssofindia.org/te/about/the-four-stages-of-monastic-life","url": "https://test.yssofindia.org/te/about/the-four-stages-of-monastic-life?8020","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "22-Information for New Visitors / Telugu","referenceUrl": "https://yssofindia.org/te/about/information-for-new-visitors","url": "https://test.yssofindia.org/te/about/information-for-new-visitors?8021","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "23-FAQ / Telugu","referenceUrl": "https://yssofindia.org/te/about/frequently-asked-questions","url": "https://test.yssofindia.org/te/about/frequently-asked-questions?8022","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "24-Glossary / Telugu","referenceUrl": "https://yssofindia.org/te/about/yogoda-satsanga-society-of-india-glossary-page-1","url": "https://test.yssofindia.org/te/about/yogoda-satsanga-society-of-india-glossary-page-1?8023","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "25-Request Free Literature / Telugu","referenceUrl": "https://yssofindia.org/te/about/request-free-literature","url": "https://test.yssofindia.org/te/about/request-free-literature?8024","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "26-Learn to Meditate / Telugu","referenceUrl": "https://yssofindia.org/te/meditation/learn-to-meditate","url": "https://test.yssofindia.org/te/meditation/learn-to-meditate?8025","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "27-How to Meditate / Telugu","referenceUrl": "https://yssofindia.org/te/meditation/how-to-meditate","url": "https://test.yssofindia.org/te/meditation/how-to-meditate?8026","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "28-Guided Meditations / Telugu","referenceUrl": "https://yssofindia.org/te/meditation/guided-meditations","url": "https://test.yssofindia.org/te/meditation/guided-meditations?8027","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "29-The Divine Art of Kirtan / Telugu","referenceUrl": "https://yssofindia.org/te/meditation/the-divine-art-of-kirtan","url": "https://test.yssofindia.org/te/meditation/the-divine-art-of-kirtan?8028","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "30-Listen to Chants / Telugu","referenceUrl": "https://yssofindia.org/te/meditation/listen-to-chants","url": "https://test.yssofindia.org/te/meditation/listen-to-chants?8029","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "31-The Kriya Yoga Path of Meditation / Telugu","referenceUrl": "https://yssofindia.org/te/meditation/the-kriya-yoga-path-of-meditation-yogoda-satsanga-society","url": "https://test.yssofindia.org/te/meditation/the-kriya-yoga-path-of-meditation-yogoda-satsanga-society?8030","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "32-Lesson Programmes / Telugu","referenceUrl": "https://yssofindia.org/te/lessons-programmes","url": "https://test.yssofindia.org/te/lessons-programmes?8031","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "33-Lessons Main Page / Telugu","referenceUrl": "https://yssofindia.org/te/yss-lessons","url": "https://test.yssofindia.org/te/yss-lessons?8032","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "34-Kriya Lessons / Telugu","referenceUrl": "https://yssofindia.org/te/kriya-yoga-lessons","url": "https://test.yssofindia.org/te/kriya-yoga-lessons?8033","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "36-SRF/YSS App — FAQ / Telugu","referenceUrl": "https://yssofindia.org/te/app-faq","url": "https://test.yssofindia.org/te/app-faq?8035","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "37-Ashrams and Centres / Telugu","referenceUrl": "https://yssofindia.org/te/ashrams","url": "https://test.yssofindia.org/te/ashrams?8036","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "38-Ranchi Ashram / Telugu","referenceUrl": "https://yssofindia.org/te/ashrams/yogoda-satsanga-sakha-ashram-ranchi","url": "https://test.yssofindia.org/te/ashrams/yogoda-satsanga-sakha-ashram-ranchi?8037","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "39-Dwarahat Ashram / Telugu","referenceUrl": "https://yssofindia.org/te/ashrams/yogoda-satsanga-sakha-ashram-dwarahat","url": "https://test.yssofindia.org/te/ashrams/yogoda-satsanga-sakha-ashram-dwarahat?8038","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "40-Dakshineswar Ashram / Telugu","referenceUrl": "https://yssofindia.org/te/ashrams/yogoda-satsanga-math-dakshineswar","url": "https://test.yssofindia.org/te/ashrams/yogoda-satsanga-math-dakshineswar?8039","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "41-Noida Ashram / Telugu","referenceUrl": "https://yssofindia.org/te/ashrams/yogoda-satsanga-sakha-ashram-noida","url": "https://test.yssofindia.org/te/ashrams/yogoda-satsanga-sakha-ashram-noida?8040","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "42-All Centers / Telugu","referenceUrl": "https://yssofindia.org/te/list-of-centres","url": "https://test.yssofindia.org/te/list-of-centres?8041","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "43-Employment Opportunities / Telugu","referenceUrl": "https://yssofindia.org/te/employment-opportunities","url": "https://test.yssofindia.org/te/employment-opportunities?8042","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "44-Subscribe to Newsletter / Telugu","referenceUrl": "https://yssofindia.org/te/enewsletter","url": "https://test.yssofindia.org/te/enewsletter?8043","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "46-Kriya Yoga Royal Technique / Telugu","referenceUrl": "https://yssofindia.org/te/programmes/Kriya-Yoga","url": "https://test.yssofindia.org/te/programmes/Kriya-Yoga?8045","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

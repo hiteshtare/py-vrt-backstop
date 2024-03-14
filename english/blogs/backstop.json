@@ -1,0 +1,52 @@
+{
+  "id": "english-blogs",
+  "viewports": [
+	      {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js", 
+  "scenarios": [
+    {"label": "Type1 / English","referenceUrl": "https://yssofindia.org/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri","url": "https://test.yssofindia.org/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri?3333","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type2 / English","referenceUrl": "https://yssofindia.org/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul","url": "https://test.yssofindia.org/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul?3334","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type3 / English","referenceUrl": "https://yssofindia.org/blog/a-spiritual-approach-to-world-peace-by-swami-bhumananda-giri","url": "https://test.yssofindia.org/blog/a-spiritual-approach-to-world-peace-by-swami-bhumananda-giri?3335","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type4 / English","referenceUrl": "https://yssofindia.org/blog/kriya-yoga-portal-to-the-infinite-by-swami-anandamoy-giri","url": "https://test.yssofindia.org/blog/kriya-yoga-portal-to-the-infinite-by-swami-anandamoy-giri?3336","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type5 / English","referenceUrl": "https://yssofindia.org/blog/a-toolkit-for-experiencing-peace-today","url": "https://test.yssofindia.org/blog/a-toolkit-for-experiencing-peace-today?3337","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type6 / English","referenceUrl": "https://yssofindia.org/blog/shifting-of-yogoda-satsanga-vidyalaya-ranchi-to-new-premises","url": "https://test.yssofindia.org/blog/shifting-of-yogoda-satsanga-vidyalaya-ranchi-to-new-premises?3338","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type7 / English","referenceUrl": "https://yssofindia.org/blog/blog-a-message-for-janmashtami-from-the-ashrams-of-paramahansa-yogananda-2023","url": "https://test.yssofindia.org/blog/blog-a-message-for-janmashtami-from-the-ashrams-of-paramahansa-yogananda-2023?3339","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type8 / English","referenceUrl": "https://yssofindia.org/blog/media-coverage-of-swami-chidanandajis-india-tour","url": "https://test.yssofindia.org/blog/media-coverage-of-swami-chidanandajis-india-tour?3340","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type9 / English","referenceUrl": "https://yssofindia.org/blog/yss-srf-president-and-spiritual-head-sri-sri-swami-chidanandajis-india-tour-2023","url": "https://test.yssofindia.org/blog/yss-srf-president-and-spiritual-head-sri-sri-swami-chidanandajis-india-tour-2023?3341","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type10 / English","referenceUrl": "https://yssofindia.org/blog/paramahansa-yogananda-on-drawing-on-intuition-to-guide-your-life","url": "https://test.yssofindia.org/blog/paramahansa-yogananda-on-drawing-on-intuition-to-guide-your-life?3342","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type11 / English","referenceUrl": "https://yssofindia.org/blog/yss-sangam-2023","url": "https://test.yssofindia.org/blog/yss-sangam-2023?3343","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type12 / English","referenceUrl": "https://yssofindia.org/blog/welcome-to-the-yss-newsletter-and-appeal-january-2023","url": "https://test.yssofindia.org/blog/welcome-to-the-yss-newsletter-and-appeal-january-2023?3344","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type13 / English","referenceUrl": "https://yssofindia.org/blog/christmas-meditation-resource-page-become-ready-to-receive-the-christ-consciousness","url": "https://test.yssofindia.org/blog/christmas-meditation-resource-page-become-ready-to-receive-the-christ-consciousness?3345","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type14 / English","referenceUrl": "https://yssofindia.org/blog/celebrating-the-75th-anniversary-of-autobiography-of-a-yogi","url": "https://test.yssofindia.org/blog/celebrating-the-75th-anniversary-of-autobiography-of-a-yogi?3346","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type15 / English","referenceUrl": "https://yssofindia.org/blog/connecting-with-the-divine-light-of-the-spiritual-eye-through-chanting-visualization-and-meditation","url": "https://test.yssofindia.org/blog/connecting-with-the-divine-light-of-the-spiritual-eye-through-chanting-visualization-and-meditation?3347","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "Type16 / English","referenceUrl": "https://yssofindia.org/blog/deepening-discipleship-initial-growth-of-the-vld","url": "https://test.yssofindia.org/blog/deepening-discipleship-initial-growth-of-the-vld?3348","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+ ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

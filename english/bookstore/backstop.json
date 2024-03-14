@@ -1,0 +1,51 @@
+{
+  "id": "english-bookstore",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {"label": "1-Bookstore Homepage / English","referenceUrl": "https://yssofindia.org/bookstore","url": "https://test.yssofindia.org/bookstore?4444","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "2-Books Archive / English","referenceUrl": "https://yssofindia.org/product-category/books","url": "https://test.yssofindia.org/product-category/books?4445","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "3-Ebooks Archive / English","referenceUrl": "https://yssofindia.org/ebooks","url": "https://test.yssofindia.org/ebooks?4446","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "4-Audio Archive / English","referenceUrl": "https://yssofindia.org/product-category/audio","url": "https://test.yssofindia.org/product-category/audio?4447","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "5-Magazine / English","referenceUrl": "https://yssofindia.org/product-category/magazine","url": "https://test.yssofindia.org/product-category/magazine?4448","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "6-Photos Archive / English","referenceUrl": "https://yssofindia.org/product-category/photos","url": "https://test.yssofindia.org/product-category/photos?4449","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "7-Devotional Items / English","referenceUrl": "https://yssofindia.org/product-category/devotional-articles","url": "https://test.yssofindia.org/product-category/devotional-articles?4450","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "8-Video Archive / English","referenceUrl": "https://yssofindia.org/product-category/video","url": "https://test.yssofindia.org/product-category/video?4451","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "9-Ordering Info / English","referenceUrl": "https://yssofindia.org/ordering-info","url": "https://test.yssofindia.org/ordering-info?4452","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "10-Shopping cart / English","referenceUrl": "https://yssofindia.org/cart","url": "https://test.yssofindia.org/cart?4453","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "11-Checkout / English","referenceUrl": "https://yssofindia.org/checkout","url": "https://test.yssofindia.org/checkout?4454","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "12-Recent Purchases / English","referenceUrl": "https://yssofindia.org/my-account/orders","url": "https://test.yssofindia.org/my-account/orders?4455","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "13-AOY / English","referenceUrl": "https://yssofindia.org/product/autobiography-of-a-yogi","url": "https://test.yssofindia.org/product/autobiography-of-a-yogi?4456","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "14-GTWA / English","referenceUrl": "https://yssofindia.org/product/god-talks-with-arjuna-the-bhagavad-gita","url": "https://test.yssofindia.org/product/god-talks-with-arjuna-the-bhagavad-gita?4457","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "15-Calendar / English","referenceUrl": "https://yssofindia.org/product/wall-calendar-2024","url": "https://test.yssofindia.org/product/wall-calendar-2024?4458","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tamil-blogs",
+  "viewports": [
+	      {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    	{"label": "Type1 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri","url": "https://test.yssofindia.org/ta/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri?9100","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type2 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul","url": "https://test.yssofindia.org/ta/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul?9101","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type3 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/a-toolkit-for-experiencing-peace-today","url": "https://test.yssofindia.org/ta/blog/a-toolkit-for-experiencing-peace-today?9102","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type4 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/shifting-of-yogoda-satsanga-vidyalaya-ranchi-to-new-premises","url": "https://test.yssofindia.org/ta/blog/shifting-of-yogoda-satsanga-vidyalaya-ranchi-to-new-premises?9103","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type5 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/blog-a-message-for-janmashtami-from-the-ashrams-of-paramahansa-yogananda-2023","url": "https://test.yssofindia.org/ta/blog/blog-a-message-for-janmashtami-from-the-ashrams-of-paramahansa-yogananda-2023?9104","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type6 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/media-coverage-of-swami-chidanandajis-india-tour","url": "https://test.yssofindia.org/ta/blog/media-coverage-of-swami-chidanandajis-india-tour?9105","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type7 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/yss-srf-president-and-spiritual-head-sri-sri-swami-chidanandajis-india-tour-2023","url": "https://test.yssofindia.org/ta/blog/yss-srf-president-and-spiritual-head-sri-sri-swami-chidanandajis-india-tour-2023?9106","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type8 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/paramahansa-yogananda-on-drawing-on-intuition-to-guide-your-life","url": "https://test.yssofindia.org/ta/blog/paramahansa-yogananda-on-drawing-on-intuition-to-guide-your-life?9107","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type9 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/yss-sangam-2023","url": "https://test.yssofindia.org/ta/blog/yss-sangam-2023?9108","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type10 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/welcome-to-the-yss-newsletter-and-appeal-january-2023","url": "https://test.yssofindia.org/ta/blog/welcome-to-the-yss-newsletter-and-appeal-january-2023?9109","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type11 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/christmas-meditation-resource-page-become-ready-to-receive-the-christ-consciousness","url": "https://test.yssofindia.org/ta/blog/christmas-meditation-resource-page-become-ready-to-receive-the-christ-consciousness?9110","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type12 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/celebrating-the-75th-anniversary-of-autobiography-of-a-yogi","url": "https://test.yssofindia.org/ta/blog/celebrating-the-75th-anniversary-of-autobiography-of-a-yogi?9111","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "Type13 / Tamil","referenceUrl": "https://yssofindia.org/ta/blog/connecting-with-the-divine-light-of-the-spiritual-eye-through-chanting-visualization-and-meditation","url": "https://test.yssofindia.org/ta/blog/connecting-with-the-divine-light-of-the-spiritual-eye-through-chanting-visualization-and-meditation?9112","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

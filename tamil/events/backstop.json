@@ -1,0 +1,57 @@
+{
+  "id": "tamil-events",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    	{"label": "2-Commemoration Event - Past Event / Tamil","referenceUrl": "https://yssofindia.org/ta/event/mahavatar-babaji-smriti-divas","url": "https://test.yssofindia.org/ta/event/mahavatar-babaji-smriti-divas?9301","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "6-Monastic Tour - 1 day - Past Event / Tamil","referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-vellore-july-2023","url": "https://test.yssofindia.org/ta/event/monastic-tour-vellore-july-2023?9305","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "7-Monastic Tour - 2 days - Past Event / Tamil","referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-guwahati-april-2023","url": "https://test.yssofindia.org/ta/event/monastic-tour-guwahati-april-2023?9306","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "8-Monastic Tour - 3 days - Past Event / Tamil","referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-thanjavur-july-2023","url": "https://test.yssofindia.org/ta/event/monastic-tour-thanjavur-july-2023?9307","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "10-Retreat - Past Event / Tamil","referenceUrl": "https://yssofindia.org/ta/event/retreat-puri-december-2022","url": "https://test.yssofindia.org/ta/event/retreat-puri-december-2022?9309","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "12-ODK Event - Past Event / Tamil","referenceUrl": "https://yssofindia.org/ta/event/discourse-in-tamil-april-14-2023","url": "https://test.yssofindia.org/ta/event/discourse-in-tamil-april-14-2023?9311","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "13-Sadhana Sangam / Tamil","referenceUrl": "https://yssofindia.org/ta/event/sadhana-sangams","url": "https://test.yssofindia.org/ta/event/sadhana-sangams?9312","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "15-Tuesday Meditation / Tamil","referenceUrl": "https://yssofindia.org/ta/event/yss-sannyasi-led-meditation-tuesdays","url": "https://test.yssofindia.org/ta/event/yss-sannyasi-led-meditation-tuesdays?9314","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "16-Sunday Long Meditation / Tamil","referenceUrl": "https://yssofindia.org/ta/event/yss-sannyasi-led-3-hr-meditation-sundays","url": "https://test.yssofindia.org/ta/event/yss-sannyasi-led-3-hr-meditation-sundays?9315","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "17-DLM / Tamil","referenceUrl": "https://yssofindia.org/ta/event/devotee-led-online-meditations","url": "https://test.yssofindia.org/ta/event/devotee-led-online-meditations?9316","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "20-IDOY / Tamil","referenceUrl": "https://yssofindia.org/ta/international-day-of-yoga","url": "https://test.yssofindia.org/ta/international-day-of-yoga?9319","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "21-IDOY - In-person Events / Tamil","referenceUrl": "https://yssofindia.org/ta/international-day-of-yoga/in-person-events","url": "https://test.yssofindia.org/ta/international-day-of-yoga/in-person-events?9320","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "22-February Sangam / Tamil","referenceUrl": "https://yssofindia.org/ta/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023","url": "https://test.yssofindia.org/ta/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023?9321","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "25-Monastic Tours / Tamil","referenceUrl": "https://yssofindia.org/ta/programmes/monastic-tours","url": "https://test.yssofindia.org/ta/programmes/monastic-tours?9324","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "26-Retreats / Tamil","referenceUrl": "https://yssofindia.org/ta/see-all-retreat-centres","url": "https://test.yssofindia.org/ta/see-all-retreat-centres?9325","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "27-ODK / Tamil","referenceUrl": "https://yssofindia.org/ta/online-meditation","url": "https://test.yssofindia.org/ta/online-meditation?9326","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "28-ODK - How to participate / Tamil","referenceUrl": "https://yssofindia.org/ta/online-meditation/how-to-participate","url": "https://test.yssofindia.org/ta/online-meditation/how-to-participate?9327","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "29-ODK Calendar / Tamil","referenceUrl": "https://yssofindia.org/ta/online-meditation/calendar","url": "https://test.yssofindia.org/ta/online-meditation/calendar?9328","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "30-ODK Helpdesk / Tamil","referenceUrl": "https://yssofindia.org/ta/online-meditation/helpdesk","url": "https://test.yssofindia.org/ta/online-meditation/helpdesk?9329","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "31-Events archive / Tamil","referenceUrl": "https://yssofindia.org/ta/event","url": "https://test.yssofindia.org/ta/event?9330","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    	{"label": "32-Past events archive / Tamil","referenceUrl": "https://yssofindia.org/ta/past-events","url": "https://test.yssofindia.org/ta/past-events?9331","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
