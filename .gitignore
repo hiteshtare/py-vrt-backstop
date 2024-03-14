@@ -20,7 +20,7 @@ node_modules
 
 **/backstop_data/bitmaps_test/
 **/backstop_data/bitmaps_reference/
-**/backstop_data/html_report/*
+**/backstop_data/html_report/
 **/backstop_data/json_report/
 **/backstop_data/reports/
 compare/config.js
@@ -35,7 +35,7 @@ compare/output/config\.js
 \.vscode/
 
 # Do not ignore this folder 
-!**/backstop_data/html_report/assets/
+# !**/backstop_data/html_report/assets/
 
 # Tests
 *integrationTestDir
