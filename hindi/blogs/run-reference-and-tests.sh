@@ -1,4 +1,4 @@
 backstop reference
-gp site test.yssofindia.org -http-auth-off
+#gp site test.yssofindia.org -http-auth-off
 backstop test
-gp site test.yssofindia.org -http-auth
+#gp site test.yssofindia.org -http-auth

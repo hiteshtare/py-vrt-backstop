@@ -1,0 +1,39 @@
+/* General settings of Noto Sans Devanagari */
+body,h1,h2,h3,h4,h5,h6,div,span,table,th,tr,td,li,a,p,ul li, ol li {font-family:"Noto Sans Devanagari", sans-serif!important;}
+body {font-size: 16px;font-style: normal;font-variant: normal;line-height: 24px;color: #000;
+background-color: #fff;letter-spacing: 0.5px;}
+body p{font-size: 20px;}
+strong {font-weight: 700;}
+h1 {font:400 30px/15px Noto Sans Devanagari,sans-serif;}
+p,li,td {font:400 20px/38px Noto Sans Devanagari,sans-serif;}
+p#breadcrumbs {font-size: 12px;line-height: 28px;}
+body #mega-menu-wrap-menu-1 #mega-menu-menu-1>li.mega-menu-item>a.mega-menu-link {font-size: 15px;}
+body #responsive-menu-container .responsive-menu-search-box { height: 30px; margin-top: 30px; }
+
+/* Heder  */
+.elementor-section .elementor-container .yss-nav ul li a{font-family:'Noto Sans Devanagari', sans-serif !important;}
+
+/* Mobile Menu Font size*/
+body #responsive-menu-container #responsive-menu li.responsive-menu-item .responsive-menu-item-link { font-size: 18px; }
+#responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item .responsive-menu-item-link{ font-size: 15px; }
+/* Footer */
+.footer-top a{font-family:'Noto Sans Devanagari', sans-serif !important;}
+
+
+/* Aayush start Sangam Read More/ Less Change font */
+html:lang(hi) .elementor-widget-eael-adv-accordion a.premium-button {
+    font-size: 20px !important;
+}
+
+/* Aayush end */
+
+/* Aayush start */
+.elementor-widget-theme-post-title .elementor-heading-title, h1 {font-style: normal;font-variant: normal;line-height: 60.4px;padding-bottom: 0px;color: #BB4F27;font-size:30px}
+.elementor-heading-title {color: #BB4F27;font-size: 30px;font-weight: 400;font-style: normal;}
+h1 {font:400 30px/15px Noto Sans Devanagari,sans-serif;}
+@media(max-width:320px){
+
+html {
+    overflow-x: hidden;
+}
+/* Aayush end */
