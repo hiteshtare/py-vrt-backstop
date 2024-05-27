@@ -55,8 +55,13 @@
   "report": ["browser"],
   "engine": "puppeteer",
   "engineOptions": {
-    "args": ["--no-sandbox"],
-    "headless": "new"
+    "args": [
+      "--no-sandbox"
+    ],
+    "headless": "new",
+    "gotoParameters": {
+      "waitUntil": "networkidle0"
+    }
   },
   "asyncCaptureLimit": 5,
   "asyncCompareLimit": 50,
