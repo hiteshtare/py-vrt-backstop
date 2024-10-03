@@ -43,7 +43,9 @@
 	{"label": "29-ODK Calendar / English","referenceUrl": "https://yssofindia.org/online-meditation/calendar","url": "https://test.yssofindia.org/online-meditation/calendar?1139","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
 	{"label": "30-ODK Helpdesk / English","referenceUrl": "https://yssofindia.org/online-meditation/helpdesk","url": "https://test.yssofindia.org/online-meditation/helpdesk?1140","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
 	{"label": "31-Events archive / English","referenceUrl": "https://yssofindia.org/event","url": "https://test.yssofindia.org/event?1141","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
-	{"label": "32-Past events archive / English","referenceUrl": "https://yssofindia.org/past-events","url": "https://test.yssofindia.org/past-events?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+	{"label": "32-Past events archive / English","referenceUrl": "https://yssofindia.org/past-events","url": "https://test.yssofindia.org/past-events?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+	{"label": "33-Kumbha Mela 2025 / English","referenceUrl": "https://yssofindia.org/event/kumbha-mela","url": "https://test.yssofindia.org/event/kumbha-mela?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+	{"label": "34-Presidents India Tour 2025 / English","referenceUrl": "https://yssofindia.org/event/presidents-india-tour","url": "https://test.yssofindia.org/event/presidents-india-tour?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
   ],
   "paths": {
     "bitmaps_reference": "backstop_data/bitmaps_reference",

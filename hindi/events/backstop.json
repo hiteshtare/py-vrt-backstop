@@ -266,6 +266,30 @@
       ],
       "delay": 15000,
       "misMatchThreshold": 5
+    },
+    {
+      "label": "33-Kumbha Mela 2025 / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/event/kumbha-mela",
+      "url": "https://test.yssofindia.org/hi/event/kumbha-mela?1142",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "34-Presidents India Tour 2025 / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/event/presidents-india-tour",
+      "url": "https://test.yssofindia.org/hi/event/presidents-india-tour?1142",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
     }
   ],
   "paths": {

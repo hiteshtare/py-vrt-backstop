@@ -34,7 +34,9 @@
     {"label": "29-ODK Calendar / Telugu","referenceUrl": "https://yssofindia.org/te/online-meditation/calendar","url": "https://test.yssofindia.org/te/online-meditation/calendar?5028","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     {"label": "30-ODK Helpdesk / Telugu","referenceUrl": "https://yssofindia.org/te/online-meditation/helpdesk","url": "https://test.yssofindia.org/te/online-meditation/helpdesk?5029","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     {"label": "31-Events archive / Telugu","referenceUrl": "https://yssofindia.org/te/event","url": "https://test.yssofindia.org/te/event?5030","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
-    {"label": "32-Past events archive / Telugu","referenceUrl": "https://yssofindia.org/te/past-events","url": "https://test.yssofindia.org/te/past-events?5031","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+    {"label": "32-Past events archive / Telugu","referenceUrl": "https://yssofindia.org/te/past-events","url": "https://test.yssofindia.org/te/past-events?5031","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "33-Kumbha Mela 2025 / Telugu","referenceUrl": "https://yssofindia.org/te/event/kumbha-mela","url": "https://test.yssofindia.org/te/event/kumbha-mela?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "34-Presidents India Tour 2025 / Telugu","referenceUrl": "https://yssofindia.org/te/event/presidents-india-tour","url": "https://test.yssofindia.org/te/event/presidents-india-tour?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
   ],
   "paths": {
     "bitmaps_reference": "backstop_data/bitmaps_reference",

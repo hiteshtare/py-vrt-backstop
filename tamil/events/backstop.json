@@ -35,7 +35,9 @@
     	{"label": "29-ODK Calendar / Tamil","referenceUrl": "https://yssofindia.org/ta/online-meditation/calendar","url": "https://test.yssofindia.org/ta/online-meditation/calendar?9328","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     	{"label": "30-ODK Helpdesk / Tamil","referenceUrl": "https://yssofindia.org/ta/online-meditation/helpdesk","url": "https://test.yssofindia.org/ta/online-meditation/helpdesk?9329","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     	{"label": "31-Events archive / Tamil","referenceUrl": "https://yssofindia.org/ta/event","url": "https://test.yssofindia.org/ta/event?9330","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
-    	{"label": "32-Past events archive / Tamil","referenceUrl": "https://yssofindia.org/ta/past-events","url": "https://test.yssofindia.org/ta/past-events?9331","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+    	{"label": "32-Past events archive / Tamil","referenceUrl": "https://yssofindia.org/ta/past-events","url": "https://test.yssofindia.org/ta/past-events?9331","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+        {"label": "33-Kumbha Mela 2025 / Tamil","referenceUrl": "https://yssofindia.org/ta/event/kumbha-mela","url": "https://test.yssofindia.org/ta/event/kumbha-mela?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+	    {"label": "34-Presidents India Tour 2025 / Tamil","referenceUrl": "https://yssofindia.org/ta/event/presidents-india-tour","url": "https://test.yssofindia.org/ta/event/presidents-india-tour?1142","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
   ],
   "paths": {
     "bitmaps_reference": "backstop_data/bitmaps_reference",
