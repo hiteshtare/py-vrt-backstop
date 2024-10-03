@@ -16,13 +16,19 @@ cd ../priority-pages
 backstop reference
 backstop test
 
+cd ../locations
+backstop reference
+backstop test
+
+### ### ### Only for ENGLISH language ### ### ###
 cd ../bookstore
 backstop reference
 backstop test
 
-cd ../locations
+cd ../teachings-library
 backstop reference
 backstop test
+### ### ### Only for ENGLISH language ### ### ###
 
 cd ..
 
@@ -32,10 +38,12 @@ echo "VRT for Image Gallery: https://vrt.yssofindia.org/vrt/english/image-galler
 
 echo "VRT for Priority Pages: https://vrt.yssofindia.org/vrt/english/priority-pages/backstop_data/html_report/index.html"
 
-echo "VRT for Bookstore: https://vrt.yssofindia.org/vrt/english/bookstore/backstop_data/html_report/index.html"
-
 echo "VRT for Blogs: https://vrt.yssofindia.org/vrt/english/blogs/backstop_data/html_report/index.html"
 
 echo "VRT for Locations: https://vrt.yssofindia.org/vrt/english/locations/backstop_data/html_report/index.html"
+
+echo "VRT for Bookstore: https://vrt.yssofindia.org/vrt/english/bookstore/backstop_data/html_report/index.html"
+
+echo "VRT for Teachings Library: https://vrt.yssofindia.org/vrt/english/teachings-library/backstop_data/html_report/index.html"
 
 #gp site test.yssofindia.org -http-auth

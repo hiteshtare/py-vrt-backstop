@@ -1,0 +1,112 @@
+{
+  "id": "english-teachings-library",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+    },
+    {
+      "label": "iPhone",
+      "width": 375,
+      "height": 667
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {
+      "label": "1-TL Main page / English",
+      "referenceUrl": "https://yssofindia.org/teachings-library",
+      "url": "https://test.yssofindia.org/teachings-library?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "2-OIS / English",
+      "referenceUrl": "https://yssofindia.org/teachings-library/the-kriya-yoga-path-of-divine-living-by-swami-chidananda-giri",
+      "url": "https://test.yssofindia.org/teachings-library/the-kriya-yoga-path-of-divine-living-by-swami-chidananda-giri?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "3-Video & Audio / English",
+      "referenceUrl": "https://yssofindia.org/teachings-library/paramahansa-yogananda-on-the-dream-nature-of-the-world",
+      "url": "https://test.yssofindia.org/teachings-library/paramahansa-yogananda-on-the-dream-nature-of-the-world?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "4-Bhagavad Gita / English",
+      "referenceUrl": "https://yssofindia.org/teachings-library/the-conch-shells-in-kurukshetra-battle-inner-vibratory-battle-in-meditation-part-ii-by-swami-smaranananda-giri",
+      "url": "https://test.yssofindia.org/teachings-library/the-conch-shells-in-kurukshetra-battle-inner-vibratory-battle-in-meditation-part-ii-by-swami-smaranananda-giri?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "5-Audio / English",
+      "referenceUrl": "https://yssofindia.org/teachings-library/in-the-temple-of-silence",
+      "url": "https://test.yssofindia.org/teachings-library/in-the-temple-of-silence?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "6-Audio / English",
+      "referenceUrl": "https://yssofindia.org/teachings-library/effort-is-progress-by-swami-suddhananda-giri",
+      "url": "https://test.yssofindia.org/teachings-library/effort-is-progress-by-swami-suddhananda-giri?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
