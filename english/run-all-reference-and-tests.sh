@@ -20,6 +20,10 @@ cd ../bookstore
 backstop reference
 backstop test
 
+cd ../locations
+backstop reference
+backstop test
+
 cd ..
 
 echo "VRT for Events: https://vrt.yssofindia.org/vrt/english/events/backstop_data/html_report/index.html"
@@ -31,5 +35,7 @@ echo "VRT for Priority Pages: https://vrt.yssofindia.org/vrt/english/priority-pa
 echo "VRT for Bookstore: https://vrt.yssofindia.org/vrt/english/bookstore/backstop_data/html_report/index.html"
 
 echo "VRT for Blogs: https://vrt.yssofindia.org/vrt/english/blogs/backstop_data/html_report/index.html"
+
+echo "VRT for Locations: https://vrt.yssofindia.org/vrt/english/locations/backstop_data/html_report/index.html"
 
 #gp site test.yssofindia.org -http-auth
