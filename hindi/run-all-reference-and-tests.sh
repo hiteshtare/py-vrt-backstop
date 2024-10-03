@@ -30,6 +30,6 @@ echo "VRT for Priority Pages-HINDI: https://vrt.yssofindia.org/vrt/hindi/priorit
 
 echo "VRT for Blogs-HINDI: https://vrt.yssofindia.org/vrt/hindi/blogs/backstop_data/html_report/index.html"
 
-echo "VRT for Locations: https://vrt.yssofindia.org/vrt/hindi/locations/backstop_data/html_report/index.html"
+echo "VRT for Locations-HINDI: https://vrt.yssofindia.org/vrt/hindi/locations/backstop_data/html_report/index.html"
 
 #gp site test.yssofindia.org -http-auth
