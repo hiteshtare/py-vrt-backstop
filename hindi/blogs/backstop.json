@@ -170,6 +170,18 @@
       ],
       "delay": 15000,
       "misMatchThreshold": 5
+    },
+    {
+      "label": "Type14 / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/blog/guru-purnima-appeal-2024",
+      "url": "https://test.yssofindia.org/hi/blog/guru-purnima-appeal-2024?3348",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
     }
   ],
   "paths": {
