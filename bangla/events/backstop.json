@@ -1,0 +1,44 @@
+{
+  "id": "bangla-events",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {"label": "1-Sadhana Sangam / Bangla","referenceUrl": "https://yssofindia.org/bn/event/sadhana-sangams","url": "https://test.yssofindia.org/bn/event/sadhana-sangams?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "2-Tuesday Meditation / Bangla","referenceUrl": "https://yssofindia.org/bn/event/yss-sannyasi-led-meditation-tuesdays","url": "https://test.yssofindia.org/bn/event/yss-sannyasi-led-meditation-tuesdays?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "3-DLM / Bangla","referenceUrl": "https://yssofindia.org/bn/event/devotee-led-online-meditations","url": "https://test.yssofindia.org/bn/event/devotee-led-online-meditations?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "4-Monastic Tours / Bangla","referenceUrl": "https://yssofindia.org/bn/monastic-tours","url": "https://test.yssofindia.org/bn/monastic-tours?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "5-Retreats / Bangla","referenceUrl": "https://yssofindia.org/bn/programmes/retreats","url": "https://test.yssofindia.org/bn/programmes/retreats?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "6-ODK Helpdesk / Bangla","referenceUrl": "https://yssofindia.org/bn/helpdesk","url": "https://test.yssofindia.org/bn/helpdesk?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "7-President India Tour 2025 / Bangla","referenceUrl": "https://yssofindia.org/bn/event/presidents-india-tour","url": "https://test.yssofindia.org/bn/event/presidents-india-tour?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "8-Kumbha Mela 2025 / Bangla","referenceUrl": "https://yssofindia.org/bn/event/kumbha-mela","url": "https://test.yssofindia.org/bn/event/kumbha-mela?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

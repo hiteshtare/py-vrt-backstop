@@ -1,0 +1,51 @@
+{
+  "id": "bangla-priority-pages",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {"label": "3-Autobiography of a Yogi / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/autobiography-of-a-yogi","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/autobiography-of-a-yogi?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "4-Translations Around the World / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/translations-around-the-world","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/translations-around-the-world?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "5-Autobiography of a Yogi MP3 Edition / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/autobiography-of-a-yogi-mp3-edition","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/autobiography-of-a-yogi-mp3-edition?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "6-Listen to Paramahansa Yogananda / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/listen-to-paramahansa-yogananda","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/listen-to-paramahansa-yogananda?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "7-Books and Recordings / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/books-and-recordings","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/books-and-recordings?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "16-Request a Prayer / Bangla","referenceUrl": "https://yssofindia.org/bn/prayer","url": "https://test.yssofindia.org/bn/prayer?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "18-Aims & Ideals / Bangla","referenceUrl": "https://yssofindia.org/bn/about/aims-and-ideals","url": "https://test.yssofindia.org/bn/about/aims-and-ideals?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "26-Learn to Meditate / Bangla","referenceUrl": "https://yssofindia.org/bn/meditation/learn-to-meditate","url": "https://test.yssofindia.org/bn/meditation/learn-to-meditate?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "29-The Divine Art of Kirtan / Bangla","referenceUrl": "https://yssofindia.org/bn/meditation/the-divine-art-of-kirtan","url": "https://test.yssofindia.org/bn/meditation/the-divine-art-of-kirtan?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "37-Ashrams and Centres / Bangla","referenceUrl": "https://yssofindia.org/bn/ashrams","url": "https://test.yssofindia.org/bn/ashrams?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "38-Dwarahat Ashram / Bangla","referenceUrl": "https://yssofindia.org/bn/ashrams/yogoda-satsanga-sakha-ashram-dwarahat","url": "https://test.yssofindia.org/bn/ashrams/yogoda-satsanga-sakha-ashram-dwarahat?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "40-Noida Ashram / Bangla","referenceUrl": "https://yssofindia.org/bn/ashrams/yogoda-satsanga-sakha-ashram-noida","url": "https://test.yssofindia.org/bn/ashrams/yogoda-satsanga-sakha-ashram-noida?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "41-All Centers / Bangla","referenceUrl": "https://yssofindia.org/bn/list-of-centres","url": "https://test.yssofindia.org/bn/list-of-centres?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "42-Employment Opportunities / Bangla","referenceUrl": "https://yssofindia.org/bn/employment-opportunities","url": "https://test.yssofindia.org/bn/employment-opportunities?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
+    {"label": "43-Subscribe to Newsletter / Bangla","referenceUrl": "https://yssofindia.org/bn/enewsletter","url": "https://test.yssofindia.org/bn/enewsletter?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
