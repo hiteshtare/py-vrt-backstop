@@ -36,13 +36,23 @@ cd ..
 echo "Completed successfully!"
 # ----------------------------- telugu ----------------------------- #
 
-# ----------------------- bangla-and-kannada ----------------------- #
-echo "#5: bangla-and-kannada"
+# ----------------------- bangla ----------------------- #
+echo "#5: bangla"
 echo "Executing scripts..."
-cd bangla-and-kannada
-sh ./run-tests.sh
+cd bangla
+sh ./run-all-reference-and-tests.sh
 cd..
 echo "Completed successfully!"
-# ----------------------- bangla-and-kannada ----------------------- #
+# ----------------------- bangla ----------------------- #
+
+# ----------------------- kannada ----------------------- #
+echo "#6: kannada"
+echo "Executing scripts..."
+cd kannada
+sh ./run-all-reference-and-tests.sh
+cd..
+echo "Completed successfully!"
+# ----------------------- kannada ----------------------- #
+
 
 echo "<<< Completed VRT for All languages"
