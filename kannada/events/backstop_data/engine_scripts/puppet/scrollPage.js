@@ -1,7 +1,7 @@
 // backstop_data/engine_scripts/puppeteer/scrollPage.js
 
-module.exports = async (page, scenario) => {
-    console.log('SCENARIO > ' + scenario.label);
+module.exports = async (page, scenario, vp) => {
+  console.log('SCENARIO > ' + scenario.label + ' (' + vp.label + ')');
     
     await page.evaluate(async () => {
         // Function to wait for a specified amount of time
