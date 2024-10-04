@@ -41,7 +41,7 @@ echo "#5: bangla"
 echo "Executing scripts..."
 cd bangla
 sh ./run-all-reference-and-tests.sh
-cd..
+cd ..
 echo "Completed successfully!"
 # ----------------------- bangla ----------------------- #
 
@@ -50,7 +50,7 @@ echo "#6: kannada"
 echo "Executing scripts..."
 cd kannada
 sh ./run-all-reference-and-tests.sh
-cd..
+cd ..
 echo "Completed successfully!"
 # ----------------------- kannada ----------------------- #
 
