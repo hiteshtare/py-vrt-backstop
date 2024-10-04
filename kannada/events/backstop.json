@@ -1,0 +1,48 @@
+{
+  "id": "kannada-events",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+   },
+   {
+     "label": "iPhone",
+     "width": 375,
+     "height": 667
+   }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/scrollPage.js",
+  "scenarios": [
+    {"label": "1-Sadhana Sangam / Kannada","referenceUrl": "https://yssofindia.org/kn/event/sadhana-sangams","url": "https://test.yssofindia.org/kn/event/sadhana-sangams?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "2-Tuesday Meditation / Kannada","referenceUrl": "https://yssofindia.org/kn/event/yss-sannyasi-led-meditation-tuesdays","url": "https://test.yssofindia.org/kn/event/yss-sannyasi-led-meditation-tuesdays?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "3-DLM / Kannada","referenceUrl": "https://yssofindia.org/kn/event/devotee-led-online-meditations","url": "https://test.yssofindia.org/kn/event/devotee-led-online-meditations?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "5-IDOY / Kannada","referenceUrl": "https://yssofindia.org/kn/event/international-day-of-yoga","url": "https://test.yssofindia.org/kn/event/international-day-of-yoga?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "6-Monastic Tours / Kannada","referenceUrl": "https://yssofindia.org/kn/monastic-tours","url": "https://test.yssofindia.org/kn/monastic-tours?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "7-Retreats / Kannada","referenceUrl": "https://yssofindia.org/kn/programmes/retreats","url": "https://test.yssofindia.org/kn/programmes/retreats?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "8-ODK / Kannada","referenceUrl": "https://yssofindia.org/kn/online-meditation","url": "https://test.yssofindia.org/kn/online-meditation?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "9-ODK - How to participate / Kannada","referenceUrl": "https://yssofindia.org/kn/online-meditation/how-to-participate","url": "https://test.yssofindia.org/kn/online-meditation/how-to-participate?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "10-ODK Calendar / Kannada","referenceUrl": "https://yssofindia.org/kn/online-meditation/helpdesk","url": "https://test.yssofindia.org/kn/online-meditation/helpdesk?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "11-ODK Helpdesk / Kannada","referenceUrl": "https://yssofindia.org/kn/online-meditation/helpdesk","url": "https://test.yssofindia.org/kn/online-meditation/helpdesk?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "12-President India Tour 2025 / Kannada","referenceUrl": "https://yssofindia.org/kn/event/presidents-india-tour","url": "https://test.yssofindia.org/kn/event/presidents-india-tour?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
+    {"label": "13-Kumbha Mela 2025 / Kannada","referenceUrl": "https://yssofindia.org/kn/event/kumbha-mela","url": "https://test.yssofindia.org/kn/event/kumbha-mela?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5}
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
