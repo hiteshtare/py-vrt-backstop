@@ -1,6 +1,8 @@
 module.exports = async (page, scenario, vp) => {
   const ignoredMessages = [
-    "JSHandle"
+    "JSHandle",
+    "Cookie state restored with:",
+    "Close Browser"
   ];
 
   console.log = (message) => {
