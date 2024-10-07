@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/onReady.js", 
+  "onReadyScript": "puppet/scrollPage.js", 
   "scenarios": [
     {"label": "Type1 / English","referenceUrl": "https://yssofindia.org/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri","url": "https://test.yssofindia.org/blog/6-spiritually-revolutionary-ideas-that-paramahansa-yogananda-brought-to-the-world-by-swami-chidananda-giri?3333","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     {"label": "Type2 / English","referenceUrl": "https://yssofindia.org/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul","url": "https://test.yssofindia.org/blog/paramahansa-yogananda-on-uncovering-the-peace-of-the-soul?3334","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
