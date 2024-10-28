@@ -1,0 +1,33 @@
+{
+  "name": "visual-automation",
+  "description": "Backstop Tests",
+  "version": "1.1.0",
+  "scripts": {
+    "parse:csv": "node ./bin/csv-parser.js",
+    "backstop:reference": "backstop reference --config=mainConfig.js",
+    "reference": "npm run backstop:reference",
+    "backstop:test": "backstop test --config=mainConfig.js",
+    "test": "node ./bin/csv-reader.js && npm run backstop:test",
+    "reference:csv": "npm run parse:csv && backstop reference --config=mainConfigCSV.js",
+    "test:csv": "backstop test --config=mainConfigCSV.js",
+    "reference-and-tests": "npm run parse:csv && backstop reference --config=mainConfigCSV.js && backstop test --config=mainConfigCSV.js"
+  },
+  "author": "Hitesh Tare",
+  "license": "MIT",
+  "dependencies": {
+    "backstopjs": "6.0.4",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtCamp/rtcamp.com"
+  },
+  "exclaim": {
+    "input": "./data/sampleUrls.csv"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.42.1"
+  }
+}
