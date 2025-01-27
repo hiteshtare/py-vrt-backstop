@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {"label": "3-Autobiography of a Yogi / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/autobiography-of-a-yogi","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/autobiography-of-a-yogi?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
     {"label": "4-Translations Around the World / Bangla","referenceUrl": "https://yssofindia.org/bn/paramahansa-yogananda/translations-around-the-world","url": "https://test.yssofindia.org/bn/paramahansa-yogananda/translations-around-the-world?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},

@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {"label": "1-Sadhana Sangam / Bangla","referenceUrl": "https://yssofindia.org/bn/event/sadhana-sangams","url": "https://test.yssofindia.org/bn/event/sadhana-sangams?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     {"label": "2-Tuesday Meditation / Bangla","referenceUrl": "https://yssofindia.org/bn/event/yss-sannyasi-led-meditation-tuesdays","url": "https://test.yssofindia.org/bn/event/yss-sannyasi-led-meditation-tuesdays?5001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},

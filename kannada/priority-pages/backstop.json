@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {"label": "2-AOY AudioBook / Kannada","referenceUrl": "https://yssofindia.org/kn/autobiography-of-a-yogi-regional-languages-free-audiobook","url": "https://test.yssofindia.org/kn/autobiography-of-a-yogi-regional-languages-free-audiobook?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
     {"label": "3-Autobiography of a Yogi / Kannada","referenceUrl": "https://yssofindia.org/kn/paramahansa-yogananda/autobiography-of-a-yogi","url": "https://test.yssofindia.org/kn/paramahansa-yogananda/autobiography-of-a-yogi?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},

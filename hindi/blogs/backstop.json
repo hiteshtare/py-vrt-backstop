@@ -13,7 +13,7 @@
     }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
       "label": "Type1 / Hindi",

@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {"label": "1-Homepage / Telugu","referenceUrl": "https://yssofindia.org/te","url": "https://test.yssofindia.org/te?8000","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 25000,"misMatchThreshold": 5},
     {"label": "2-AOY AudioBook / Telugu","referenceUrl": "https://yssofindia.org/te/autobiography-of-a-yogi-regional-languages-free-audiobook","url": "https://test.yssofindia.org/te/autobiography-of-a-yogi-regional-languages-free-audiobook?8001","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},

@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
 	{"label": "2-Commemoration Event - Past Event / English","referenceUrl": "https://yssofindia.org/event/mahavatar-babaji-smriti-divas","url": "https://test.yssofindia.org/event/mahavatar-babaji-smriti-divas?1112","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
 	{"label": "3-Monastic Tour - 1 day - Upcoming / English","referenceUrl": "https://yssofindia.org/event/monastic-tour-siliguri-march-2024","url": "https://test.yssofindia.org/event/monastic-tour-siliguri-march-2024?1113","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},

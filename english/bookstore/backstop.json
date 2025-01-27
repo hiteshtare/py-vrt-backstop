@@ -13,7 +13,7 @@
    }
   ],
   "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/scrollPage.js",
+  "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {"label": "1-Bookstore Homepage / English","referenceUrl": "https://yssofindia.org/bookstore","url": "https://test.yssofindia.org/bookstore?4444","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
     {"label": "2-Books Archive / English","referenceUrl": "https://yssofindia.org/product-category/books","url": "https://test.yssofindia.org/product-category/books?4445","hideSelectors": [],"removeSelectors": [],"selectors": ["document"],"delay": 15000,"misMatchThreshold": 5},
