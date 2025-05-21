@@ -18,7 +18,7 @@
     {
       "label": "1-Ranchi Ashram / Tamil",
       "referenceUrl": "https://yssofindia.org/ta/location/ranchi",
-      "url": "https://test.yssofindia.org/ta/location/ranchi?2267",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/ta/location/ranchi?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -30,7 +30,7 @@
     {
       "label": "2-Chennai Ashram / Tamil",
       "referenceUrl": "https://yssofindia.org/ta/location/chennai",
-      "url": "https://test.yssofindia.org/ta/location/chennai?2267",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/ta/location/chennai?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -42,7 +42,7 @@
     {
       "label": "3-Chennai events schedule / Tamil",
       "referenceUrl": "https://yssofindia.org/ta/location/chennai/event-schedule",
-      "url": "https://test.yssofindia.org/ta/location/chennai/event-schedule?2267",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/ta/location/chennai/event-schedule?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -54,7 +54,7 @@
     {
       "label": "4-Chennai how to reach / Tamil",
       "referenceUrl": "https://yssofindia.org/ta/location/chennai/how-to-reach",
-      "url": "https://test.yssofindia.org/ta/location/chennai/how-to-reach?2267",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/ta/location/chennai/how-to-reach?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [

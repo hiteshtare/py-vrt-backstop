@@ -18,7 +18,7 @@
     {
       "label": "1-Ranchi Ashram / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/location/ranchi",
-      "url": "https://test.yssofindia.org/hi/location/ranchi?2267",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/location/ranchi?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [

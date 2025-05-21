@@ -18,7 +18,7 @@
     {
       "label": "1-Homepage / Hindi",
       "referenceUrl": "https://yssofindia.org/hi",
-      "url": "https://test.yssofindia.org/hi?4000",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi?4000",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -30,7 +30,7 @@
     {
       "label": "2-AOY AudioBook / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/autobiography-of-a-yogi-regional-languages-free-audiobook",
-      "url": "https://test.yssofindia.org/hi/autobiography-of-a-yogi-regional-languages-free-audiobook?4001",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/autobiography-of-a-yogi-regional-languages-free-audiobook?4001",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -42,7 +42,7 @@
     {
       "label": "3-Autobiography of a Yogi / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/autobiography-of-a-yogi",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/autobiography-of-a-yogi?4002",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/autobiography-of-a-yogi?4002",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -54,7 +54,7 @@
     {
       "label": "4-Translations Around the World / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/translations-around-the-world",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/translations-around-the-world?4003",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/translations-around-the-world?4003",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -66,7 +66,7 @@
     {
       "label": "5-Autobiography of a Yogi MP3 Edition / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/Autobiography-of-a-Yogi-mp3-edition",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/Autobiography-of-a-Yogi-mp3-edition?4004",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/Autobiography-of-a-Yogi-mp3-edition?4004",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -78,7 +78,7 @@
     {
       "label": "6-Listen to Paramahansa Yogananda / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/listen-to-paramahansa-yogananda",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/listen-to-paramahansa-yogananda?4005",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/listen-to-paramahansa-yogananda?4005",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -90,7 +90,7 @@
     {
       "label": "7-Books and Recordings / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/books-and-recordings",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/books-and-recordings?4006",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/books-and-recordings?4006",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -102,7 +102,7 @@
     {
       "label": "8-Disciples Reminisce / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/disciples-reminisce",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/disciples-reminisce?4007",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/disciples-reminisce?4007",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -114,7 +114,7 @@
     {
       "label": "9-Comments and Reviews / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/Comments-Reviews",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/Comments-Reviews?4008",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/Comments-Reviews?4008",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -126,7 +126,7 @@
     {
       "label": "10-Stories of Close Disciples / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/first-encounters",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/first-encounters?4009",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/first-encounters?4009",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -138,7 +138,7 @@
     {
       "label": "11-Educators & Scientific Community / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/paramahansa-yogananda/educators-scientific-community",
-      "url": "https://test.yssofindia.org/hi/paramahansa-yogananda/educators-scientific-community?4010",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/paramahansa-yogananda/educators-scientific-community?4010",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -150,7 +150,7 @@
     {
       "label": "12-YSS Magazine / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/spiritual/yogoda-satsanga-magazine",
-      "url": "https://test.yssofindia.org/hi/spiritual/yogoda-satsanga-magazine?4011",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/spiritual/yogoda-satsanga-magazine?4011",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -162,7 +162,7 @@
     {
       "label": "13-Affirmations / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/spiritual/affirmations",
-      "url": "https://test.yssofindia.org/hi/spiritual/affirmations?4012",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/spiritual/affirmations?4012",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -174,7 +174,7 @@
     {
       "label": "14-Affirmation Instructions / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/spiritual/affirmation-instructions",
-      "url": "https://test.yssofindia.org/hi/spiritual/affirmation-instructions?4013",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/spiritual/affirmation-instructions?4013",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -186,7 +186,7 @@
     {
       "label": "15-Prayer / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/spiritual/Prayer",
-      "url": "https://test.yssofindia.org/hi/spiritual/Prayer?4014",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/spiritual/Prayer?4014",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -198,7 +198,7 @@
     {
       "label": "16-Request a Prayer / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/prayer",
-      "url": "https://test.yssofindia.org/hi/prayer?4015",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/prayer?4015",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -210,7 +210,7 @@
     {
       "label": "17-About YSS / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about",
-      "url": "https://test.yssofindia.org/hi/about?4016",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about?4016",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -222,7 +222,7 @@
     {
       "label": "18-Aims & Ideals / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/aims-and-ideals",
-      "url": "https://test.yssofindia.org/hi/about/aims-and-ideals?4017",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/aims-and-ideals?4017",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -234,7 +234,7 @@
     {
       "label": "19-Monastic Order / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/monastic-order",
-      "url": "https://test.yssofindia.org/hi/about/monastic-order?4018",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/monastic-order?4018",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -246,7 +246,7 @@
     {
       "label": "20-Sannyas / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/Sannyas",
-      "url": "https://test.yssofindia.org/hi/about/Sannyas?4019",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/Sannyas?4019",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -258,7 +258,7 @@
     {
       "label": "21-4 stage of Monastic Life / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/the-four-stages-of-monastic-life",
-      "url": "https://test.yssofindia.org/hi/about/the-four-stages-of-monastic-life?4020",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/the-four-stages-of-monastic-life?4020",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -270,7 +270,7 @@
     {
       "label": "22-Information for New Visitors / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/information-for-new-visitors",
-      "url": "https://test.yssofindia.org/hi/about/information-for-new-visitors?4021",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/information-for-new-visitors?4021",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -282,7 +282,7 @@
     {
       "label": "23-FAQ / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/frequently-asked-questions",
-      "url": "https://test.yssofindia.org/hi/about/frequently-asked-questions?4022",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/frequently-asked-questions?4022",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -294,7 +294,7 @@
     {
       "label": "24-Glossary / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/yogoda-satsanga-society-of-india-glossary-page-1",
-      "url": "https://test.yssofindia.org/hi/about/yogoda-satsanga-society-of-india-glossary-page-1?4023",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/yogoda-satsanga-society-of-india-glossary-page-1?4023",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -306,7 +306,7 @@
     {
       "label": "25-Request Free Literature / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/request-free-literature",
-      "url": "https://test.yssofindia.org/hi/about/request-free-literature?4024",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/request-free-literature?4024",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -318,7 +318,7 @@
     {
       "label": "26-Learn to Meditate / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/meditation/learn-to-meditate",
-      "url": "https://test.yssofindia.org/hi/meditation/learn-to-meditate?4025",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/meditation/learn-to-meditate?4025",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -330,7 +330,7 @@
     {
       "label": "27-How to Meditate / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/meditation/how-to-meditate",
-      "url": "https://test.yssofindia.org/hi/meditation/how-to-meditate?4026",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/meditation/how-to-meditate?4026",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -342,7 +342,7 @@
     {
       "label": "28-Guided Meditations / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/meditation/guided-meditations",
-      "url": "https://test.yssofindia.org/hi/meditation/guided-meditations?4027",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/meditation/guided-meditations?4027",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -354,7 +354,7 @@
     {
       "label": "29-The Divine Art of Kirtan / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/meditation/the-divine-art-of-kirtan",
-      "url": "https://test.yssofindia.org/hi/meditation/the-divine-art-of-kirtan?4028",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/meditation/the-divine-art-of-kirtan?4028",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -366,7 +366,7 @@
     {
       "label": "30-Listen to Chants / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/meditation/listen-to-chants",
-      "url": "https://test.yssofindia.org/hi/meditation/listen-to-chants?4029",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/meditation/listen-to-chants?4029",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -378,7 +378,7 @@
     {
       "label": "31-The Kriya Yoga Path of Meditation / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/meditation/the-kriya-yoga-path-of-meditation-yogoda-satsanga-society",
-      "url": "https://test.yssofindia.org/hi/meditation/the-kriya-yoga-path-of-meditation-yogoda-satsanga-society?4030",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/meditation/the-kriya-yoga-path-of-meditation-yogoda-satsanga-society?4030",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -390,7 +390,7 @@
     {
       "label": "32-Lesson Programmes / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/lessons-programmes",
-      "url": "https://test.yssofindia.org/hi/lessons-programmes?4031",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/lessons-programmes?4031",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -402,7 +402,7 @@
     {
       "label": "33-Lessons Main Page / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/yss-lessons",
-      "url": "https://test.yssofindia.org/hi/yss-lessons?4032",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/yss-lessons?4032",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -414,7 +414,7 @@
     {
       "label": "34-Kriya Lessons / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/kriya-yoga-lessons",
-      "url": "https://test.yssofindia.org/hi/kriya-yoga-lessons?4033",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/kriya-yoga-lessons?4033",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -426,7 +426,7 @@
     {
       "label": "36-SRF/YSS App — FAQ / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/app-faq",
-      "url": "https://test.yssofindia.org/hi/app-faq?4035",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/app-faq?4035",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -438,7 +438,7 @@
     {
       "label": "37-Ashrams and Centres / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/ashrams",
-      "url": "https://test.yssofindia.org/hi/ashrams?4036",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/ashrams?4036",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -450,7 +450,7 @@
     {
       "label": "38-Ranchi Ashram / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-ranchi",
-      "url": "https://test.yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-ranchi?4037",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-ranchi?4037",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -462,7 +462,7 @@
     {
       "label": "39-Dwarahat Ashram / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-dwarahat",
-      "url": "https://test.yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-dwarahat?4038",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-dwarahat?4038",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -474,7 +474,7 @@
     {
       "label": "40-Dakshineswar Ashram / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/ashrams/yogoda-satsanga-math-dakshineswar",
-      "url": "https://test.yssofindia.org/hi/ashrams/yogoda-satsanga-math-dakshineswar?4039",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/ashrams/yogoda-satsanga-math-dakshineswar?4039",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -486,7 +486,7 @@
     {
       "label": "41-Noida Ashram / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-noida",
-      "url": "https://test.yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-noida?4040",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/ashrams/yogoda-satsanga-sakha-ashram-noida?4040",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -498,7 +498,7 @@
     {
       "label": "42-All Centers / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/list-of-centres",
-      "url": "https://test.yssofindia.org/hi/list-of-centres?4041",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/list-of-centres?4041",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -510,7 +510,7 @@
     {
       "label": "43-Employment Opportunities / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/employment-opportunities",
-      "url": "https://test.yssofindia.org/hi/employment-opportunities?4042",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/employment-opportunities?4042",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -522,7 +522,7 @@
     {
       "label": "44-Subscribe to Newsletter / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/enewsletter",
-      "url": "https://test.yssofindia.org/hi/enewsletter?4043",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/enewsletter?4043",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -534,7 +534,7 @@
     {
       "label": "46-Kriya Yoga Royal Technique / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/programmes/Kriya-Yoga",
-      "url": "https://test.yssofindia.org/hi/programmes/Kriya-Yoga?2267",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/programmes/Kriya-Yoga?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [

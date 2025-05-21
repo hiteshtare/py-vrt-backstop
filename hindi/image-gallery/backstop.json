@@ -18,7 +18,7 @@
     {
       "label": "1-Images - Guru Purnima 2023 / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/gallery/guru-purnima-2023",
-      "url": "https://test.yssofindia.org/hi/gallery/guru-purnima-2023?2000",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/gallery/guru-purnima-2023?2000",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -30,7 +30,7 @@
     {
       "label": "2-Images - Girls Camp 2023 / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/gallery/girls-camp-2023",
-      "url": "https://test.yssofindia.org/hi/gallery/girls-camp-2023?2001",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/gallery/girls-camp-2023?2001",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [

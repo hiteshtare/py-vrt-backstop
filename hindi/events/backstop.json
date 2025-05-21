@@ -18,7 +18,7 @@
     {
       "label": "2-Commemoration Event - Past Event / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/mahavatar-babaji-smriti-divas",
-      "url": "https://test.yssofindia.org/hi/event/mahavatar-babaji-smriti-divas?1001",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/mahavatar-babaji-smriti-divas?1001",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -30,7 +30,7 @@
     {
       "label": "6-Monastic Tour - 1 day - Past Event / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-kullu-may-2023",
-      "url": "https://test.yssofindia.org/hi/event/monastic-tour-kullu-may-2023?1005",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/monastic-tour-kullu-may-2023?1005",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -42,7 +42,7 @@
     {
       "label": "8-Monastic Tour - 3 days - Past Event / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-shimla-may-2023",
-      "url": "https://test.yssofindia.org/hi/event/monastic-tour-shimla-may-2023?1007",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/monastic-tour-shimla-may-2023?1007",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -54,7 +54,7 @@
     {
       "label": "10-Retreat - Past Event / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/retreat-dwarahat-april-2023",
-      "url": "https://test.yssofindia.org/hi/event/retreat-dwarahat-april-2023?1009",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/retreat-dwarahat-april-2023?1009",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -66,7 +66,7 @@
     {
       "label": "11-ODK Event - Upcoming / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/discourse-in-hindi-january-28-2024",
-      "url": "https://test.yssofindia.org/hi/event/discourse-in-hindi-january-28-2024?1010",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/discourse-in-hindi-january-28-2024?1010",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -78,7 +78,7 @@
     {
       "label": "12-ODK Event - Past Event / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/discourse-in-hindi-september-17-2023",
-      "url": "https://test.yssofindia.org/hi/event/discourse-in-hindi-september-17-2023?1011",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/discourse-in-hindi-september-17-2023?1011",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -90,7 +90,7 @@
     {
       "label": "13-Sadhana Sangam / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/sadhana-sangams",
-      "url": "https://test.yssofindia.org/hi/event/sadhana-sangams?1012",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/sadhana-sangams?1012",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -102,7 +102,7 @@
     {
       "label": "15-Tuesday Meditation / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/yss-sannyasi-led-meditation-tuesdays",
-      "url": "https://test.yssofindia.org/hi/event/yss-sannyasi-led-meditation-tuesdays?1014",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/yss-sannyasi-led-meditation-tuesdays?1014",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -114,7 +114,7 @@
     {
       "label": "16-Sunday Long Meditation / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/yss-sannyasi-led-3-hr-meditation-sundays",
-      "url": "https://test.yssofindia.org/hi/event/yss-sannyasi-led-3-hr-meditation-sundays?1015",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/yss-sannyasi-led-3-hr-meditation-sundays?1015",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -126,7 +126,7 @@
     {
       "label": "17-DLM / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/devotee-led-online-meditations",
-      "url": "https://test.yssofindia.org/hi/event/devotee-led-online-meditations?1016",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/devotee-led-online-meditations?1016",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -138,7 +138,7 @@
     {
       "label": "20-IDOY / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/international-day-of-yoga",
-      "url": "https://test.yssofindia.org/hi/international-day-of-yoga?1019",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/international-day-of-yoga?1019",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -150,7 +150,7 @@
     {
       "label": "21-IDOY - In-person Events / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/international-day-of-yoga/in-person-events",
-      "url": "https://test.yssofindia.org/hi/international-day-of-yoga/in-person-events?1020",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/international-day-of-yoga/in-person-events?1020",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -162,7 +162,7 @@
     {
       "label": "22-February Sangam / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023",
-      "url": "https://test.yssofindia.org/hi/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023?1021",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/sangam-with-yss-srf-president-sri-sri-swami-chidananda-giri-2023?1021",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -174,7 +174,7 @@
     {
       "label": "25-Monastic Tours / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/programmes/monastic-tours",
-      "url": "https://test.yssofindia.org/hi/programmes/monastic-tours?1024",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/programmes/monastic-tours?1024",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -186,7 +186,7 @@
     {
       "label": "26-Retreats / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/programmes/retreats/",
-      "url": "https://test.yssofindia.org/hi/programmes/retreats/?1025",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/programmes/retreats/?1025",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -198,7 +198,7 @@
     {
       "label": "27-ODK / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/online-meditation",
-      "url": "https://test.yssofindia.org/hi/online-meditation?1026",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/online-meditation?1026",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -210,7 +210,7 @@
     {
       "label": "28-ODK - How to participate / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/online-meditation/how-to-participate",
-      "url": "https://test.yssofindia.org/hi/online-meditation/how-to-participate?1027",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/online-meditation/how-to-participate?1027",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -222,7 +222,7 @@
     {
       "label": "29-ODK Calendar / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/online-meditation/calendar",
-      "url": "https://test.yssofindia.org/hi/online-meditation/calendar?1028",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/online-meditation/calendar?1028",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -234,7 +234,7 @@
     {
       "label": "30-ODK Helpdesk / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/online-meditation/helpdesk",
-      "url": "https://test.yssofindia.org/hi/online-meditation/helpdesk?1029",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/online-meditation/helpdesk?1029",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -246,7 +246,7 @@
     {
       "label": "31-Events archive / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event",
-      "url": "https://test.yssofindia.org/hi/event?1030",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event?1030",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -258,7 +258,7 @@
     {
       "label": "32-Past events archive / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/past-events",
-      "url": "https://test.yssofindia.org/hi/past-events?1031",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/past-events?1031",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -270,7 +270,7 @@
     {
       "label": "33-Kumbha Mela 2025 / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/kumbha-mela",
-      "url": "https://test.yssofindia.org/hi/event/kumbha-mela?1142",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/kumbha-mela?1142",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -282,7 +282,7 @@
     {
       "label": "34-Presidents India Tour 2025 / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/presidents-india-tour",
-      "url": "https://test.yssofindia.org/hi/event/presidents-india-tour?1142",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/presidents-india-tour?1142",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
