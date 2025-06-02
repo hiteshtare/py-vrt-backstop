@@ -20,6 +20,10 @@ cd ../locations
 backstop reference
 backstop test
 
+cd ../templates
+backstop reference
+backstop test
+
 cd ..
 
 
@@ -32,5 +36,7 @@ echo "VRT for Priority Pages-TELUGU: https://vrt.yssofindia.org/vrt/telugu/prior
 echo "VRT for Blogs-TELUGU: https://vrt.yssofindia.org/vrt/telugu/blogs/backstop_data/html_report/index.html"
 
 echo "VRT for Locations-TELUGU: https://vrt.yssofindia.org/vrt/telugu/locations/backstop_data/html_report/index.html"
+
+echo "VRT for Templates-TELUGU: https://vrt.yssofindia.org/vrt/telugu/templates/backstop_data/html_report/index.html"
 
 #gp site test.yssofindia.org -http-auth

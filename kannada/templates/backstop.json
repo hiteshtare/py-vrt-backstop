@@ -1,0 +1,100 @@
+{
+  "id": "kannada-templates",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+    },
+    {
+      "label": "iPhone",
+      "width": 375,
+      "height": 667
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "1-Header / Kannada",
+      "referenceUrl": "https://yssofindia.org/kn/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/kn/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-21520"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "2-Breadcrumb / Kannada",
+      "referenceUrl": "https://yssofindia.org/kn/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/kn/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-element-484fcce"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "3-Language Switcher / Kannada",
+      "referenceUrl": "https://yssofindia.org/kn/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/kn/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-element-54c8036"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "4-Social Share Buttons / Kannada",
+      "referenceUrl": "https://yssofindia.org/kn/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/kn/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-element-c8f445"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "5-Footer / Kannada",
+      "referenceUrl": "https://yssofindia.org/kn/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/kn/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-22086"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
