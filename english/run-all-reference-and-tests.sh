@@ -1,49 +1,54 @@
 #gp site test.yssofindia.org -http-auth-off
 
-cd blogs
+# cd blogs
+# backstop reference
+# backstop test
+
+# cd ../image-gallery
+# backstop reference
+# backstop test
+
+# cd ../events
+# backstop reference
+# backstop test
+
+# cd ../priority-pages
+# backstop reference
+# backstop test
+
+# cd ../locations
+# backstop reference
+# backstop test
+
+cd templates
+#cd ../templates
 backstop reference
 backstop test
 
-cd ../image-gallery
-backstop reference
-backstop test
+# ### ### ### Only for ENGLISH language ### ### ###
+# cd ../bookstore
+# backstop reference
+# backstop test
 
-cd ../events
-backstop reference
-backstop test
+# cd ../teachings-library
+# backstop reference
+# backstop test
+# ### ### ### Only for ENGLISH language ### ### ###
 
-cd ../priority-pages
-backstop reference
-backstop test
+# cd ..
 
-cd ../locations
-backstop reference
-backstop test
+# echo "VRT for Events: https://vrt.yssofindia.org/vrt/english/events/backstop_data/html_report/index.html"
 
-### ### ### Only for ENGLISH language ### ### ###
-cd ../bookstore
-backstop reference
-backstop test
+# echo "VRT for Image Gallery: https://vrt.yssofindia.org/vrt/english/image-gallery/backstop_data/html_report/index.html"
 
-cd ../teachings-library
-backstop reference
-backstop test
-### ### ### Only for ENGLISH language ### ### ###
+# echo "VRT for Priority Pages: https://vrt.yssofindia.org/vrt/english/priority-pages/backstop_data/html_report/index.html"
 
-cd ..
+# echo "VRT for Blogs: https://vrt.yssofindia.org/vrt/english/blogs/backstop_data/html_report/index.html"
 
-echo "VRT for Events: https://vrt.yssofindia.org/vrt/english/events/backstop_data/html_report/index.html"
+# echo "VRT for Locations: https://vrt.yssofindia.org/vrt/english/locations/backstop_data/html_report/index.html"
 
-echo "VRT for Image Gallery: https://vrt.yssofindia.org/vrt/english/image-gallery/backstop_data/html_report/index.html"
+# echo "VRT for Bookstore: https://vrt.yssofindia.org/vrt/english/bookstore/backstop_data/html_report/index.html"
 
-echo "VRT for Priority Pages: https://vrt.yssofindia.org/vrt/english/priority-pages/backstop_data/html_report/index.html"
-
-echo "VRT for Blogs: https://vrt.yssofindia.org/vrt/english/blogs/backstop_data/html_report/index.html"
-
-echo "VRT for Locations: https://vrt.yssofindia.org/vrt/english/locations/backstop_data/html_report/index.html"
-
-echo "VRT for Bookstore: https://vrt.yssofindia.org/vrt/english/bookstore/backstop_data/html_report/index.html"
-
-echo "VRT for Teachings Library: https://vrt.yssofindia.org/vrt/english/teachings-library/backstop_data/html_report/index.html"
+# echo "VRT for Teachings Library: https://vrt.yssofindia.org/vrt/english/teachings-library/backstop_data/html_report/index.html"
 
 #gp site test.yssofindia.org -http-auth
