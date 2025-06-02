@@ -1,5 +1,5 @@
 {
-  "id": "english-teachings-library",
+  "id": "english-templates",
   "viewports": [
     {
       "name": "desktop",
@@ -40,7 +40,7 @@
       "misMatchThreshold": 0
     },
     {
-      "label": "3-LanguageSwitcher  / English",
+      "label": "3-Language Switcher  / English",
       "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
       "hideSelectors": [],

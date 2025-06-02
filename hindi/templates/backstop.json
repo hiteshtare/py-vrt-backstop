@@ -1,5 +1,5 @@
 {
-  "id": "english-teachings-library",
+  "id": "hindi-templates",
   "viewports": [
     {
       "name": "desktop",
@@ -16,13 +16,61 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "1-Social Share Buttons  / HINDI",
+      "label": "1-Header / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-21520"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "2-Breadcrumb / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-element-484fcce"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "3-Language Switcher / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-element-54c8036"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "4-Social Share Buttons / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/about/aims-and-ideals",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/aims-and-ideals?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
         ".elementor-element-c8f445"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "5-Footer / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        ".elementor-22086"
       ],
       "delay": 15000,
       "misMatchThreshold": 0
