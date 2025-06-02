@@ -1,4 +1,4 @@
-#gp site test.yssofindia.org -http-auth-off
+##gp site test.yssofindia.org -http-auth-off
 
 cd blogs
 backstop reference
