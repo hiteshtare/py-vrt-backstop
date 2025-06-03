@@ -11,13 +11,109 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "5-Header hover  / English",
+      "label": "5-menu Quicklinks  hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-186115 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "5-menu LanguageSwitcher  hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-wpml-ls-3140-en > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "5-menu Paramahansa Yogananda  hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-53646 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+     {
+      "label": "5-menu About YSS  hover  / English",
       "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
       "hideSelectors": [],
       "removeSelectors": [],
       "clickSelector": [
         "#mega-menu-item-53670 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+     {
+      "label": "5-menu Meditation & Kriya Yoga hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-53696 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+     {
+      "label": "5-menu Spiritual Living hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-53710 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+     {
+      "label": "5-menu Ashrams & Centres hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-53762 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+     {
+      "label": "5-menu Programmes hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-53782 > a"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+     {
+      "label": "5-menu Bookstore hover  / English",
+      "referenceUrl": "https://yssofindia.org/about/aims-and-ideals",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/about/aims-and-ideals?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelector": [
+        "#mega-menu-item-53798 > a"
       ],
       "delay": 15000,
       "misMatchThreshold": 0
