@@ -1,0 +1,183 @@
+{
+  "id": "english-important-pages",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1366,
+      "height": 768
+    },
+    {
+      "label": "iPhone",
+      "width": 375,
+      "height": 667
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "1-JetEngine / Bookstore",
+      "referenceUrl": "https://yssofindia.org/bookstore",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/bookstore?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "2-JetEngine / Product Archive",
+      "referenceUrl": "https://yssofindia.org/product-category/photos",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/product-category/photos?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "3-JetEngine / Book Archive",
+      "referenceUrl": "https://yssofindia.org/product-category/books",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/product-category/books?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "4-JetEngine / Product Single - Variable",
+      "referenceUrl": "https://yssofindia.org/product/where-there-is-light",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/product/where-there-is-light?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "5-JetEngine / Scientific Healing Affirmations",
+      "referenceUrl": "https://yssofindia.org/product/scientific-healing-affirmations",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/product/scientific-healing-affirmations?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "6-JetEngine / Paramahansa Yogananda Last Smile",
+      "referenceUrl": "https://yssofindia.org/product/paramahansa-yogananda-last-smile",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/product/paramahansa-yogananda-last-smile?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "7-JetEngine / Product Single - Simple",
+      "referenceUrl": "https://yssofindia.org/product/wall-calendar-2026",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/product/wall-calendar-2026?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "8-JetEngine / Location Single - upcoming",
+      "referenceUrl": "https://yssofindia.org/location/ranchi",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/location/ranchi?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "9-JetEngine / Location Schedule",
+      "referenceUrl": "https://yssofindia.org/location/ranchi/event-schedule",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/location/ranchi/event-schedule?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "10-JetEngine / Location Single - loadmore",
+      "referenceUrl": "https://yssofindia.org/location/rajahmundry-retreat",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/location/rajahmundry-retreat?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "11-JetEngine / TL Archive",
+      "referenceUrl": "https://yssofindia.org/teachings-library",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/teachings-library?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "12-JetEngine / TL Single",
+      "referenceUrl": "https://yssofindia.org/teachings-library/how-to-be-a-friend-to-all-by-swami-prafullananda-giri",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/teachings-library/how-to-be-a-friend-to-all-by-swami-prafullananda-giri?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "13-JetEngine / Dream-Nature of the World",
+      "referenceUrl": "https://yssofindia.org/teachings-library/paramahansa-yogananda-on-the-dream-nature-of-the-world",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/teachings-library/paramahansa-yogananda-on-the-dream-nature-of-the-world?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ],
+    "headless": "new"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
