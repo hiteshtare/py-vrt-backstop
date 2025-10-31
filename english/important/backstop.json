@@ -157,6 +157,83 @@
       ],
       "delay": 15000,
       "misMatchThreshold": 0
+    },
+    {
+      "label": "14-Other / Home",
+      "referenceUrl": "https://yssofindia.org",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "15-Other / Blog",
+      "referenceUrl": "https://yssofindia.org/blog",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/blog?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    { 
+      "label": "16-Other / Gallery",  
+      "referenceUrl": "https://yssofindia.org/gallery",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/gallery?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "17-Other / Pages",
+      "referenceUrl": "https://yssofindia.org/yss-lessons",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/yss-lessons?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "18-Other / Event",
+      "referenceUrl": "https://yssofindia.org/event",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/event?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "19-Other / List of Centres",
+      "referenceUrl": "https://yssofindia.org/list-of-centres",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/list-of-centres?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
+    },
+    {
+      "label": "20-Other / Retreats",
+      "referenceUrl": "https://yssofindia.org/programmes/retreats",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/programmes/retreats?2267",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 0
     }
   ],
   "paths": {
