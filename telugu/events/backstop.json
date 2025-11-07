@@ -76,11 +76,58 @@
       "misMatchThreshold": 5
     },
     {
-      "label": "13-Sadhana Sangam / Telugu",
+      "label": "13-Sadhana Sangam - Accordian #1 - Schedule  / Telugu",
       "referenceUrl": "https://yssofindia.org/te/event/sadhana-sangams",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/te/event/sadhana-sangams?5012",
       "hideSelectors": [],
       "removeSelectors": [],
+      "clickSelectors": [
+        "#schedule"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "13-Sadhana Sangam - Accordian #2 - Registration  / Telugu",
+      "referenceUrl": "https://yssofindia.org/te/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/te/event/sadhana-sangams?50122",
+      "hideSelectors": [],
+      "clickSelectors": [
+        "#registration"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "13-Sadhana Sangam - Accordian #3 - Eligibility for Receiving Kriya Yoga  / Telugu",
+      "referenceUrl": "https://yssofindia.org/te/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/te/event/sadhana-sangams?50123",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#eligibility-for-receiving-kriya-yoga"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "13-Sadhana Sangam - Accordian #4 - Volunteers  / Telugu",
+      "referenceUrl": "https://yssofindia.org/te/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/te/event/sadhana-sangams?50124",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#volunteers"
+      ],
       "selectors": [
         "document"
       ],

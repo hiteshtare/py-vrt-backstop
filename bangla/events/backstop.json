@@ -16,11 +16,58 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "1-Sadhana Sangam / Bangla",
+      "label": "1-Sadhana Sangam - Accordian #1 - Schedule  / Bangla",
       "referenceUrl": "https://yssofindia.org/bn/event/sadhana-sangams",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/bn/event/sadhana-sangams?5001",
       "hideSelectors": [],
       "removeSelectors": [],
+      "clickSelectors": [
+        "#schedule"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "1-Sadhana Sangam - Accordian #2 - Registration  / Bangla",
+      "referenceUrl": "https://yssofindia.org/bn/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/bn/event/sadhana-sangams?50012",
+      "hideSelectors": [],
+      "clickSelectors": [
+        "#registration"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "1-Sadhana Sangam - Accordian #3 - Eligibility for Receiving Kriya Yoga  / Bangla",
+      "referenceUrl": "https://yssofindia.org/bn/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/bn/event/sadhana-sangams?50013",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#eligibility-for-receiving-kriya-yoga"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "1-Sadhana Sangam - Accordian #4 - Volunteers  / Bangla",
+      "referenceUrl": "https://yssofindia.org/bn/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/bn/event/sadhana-sangams?50014",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#volunteers"
+      ],
       "selectors": [
         "document"
       ],

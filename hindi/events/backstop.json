@@ -88,11 +88,58 @@
       "misMatchThreshold": 5
     },
     {
-      "label": "13-Sadhana Sangam / Hindi",
+      "label": "13-Sadhana Sangam - Accordian #1 - Schedule  / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/event/sadhana-sangams",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/sadhana-sangams?1012",
       "hideSelectors": [],
       "removeSelectors": [],
+      "clickSelectors": [
+        "#schedule"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "13-Sadhana Sangam - Accordian #2 - Registration  / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/sadhana-sangams?10122",
+      "hideSelectors": [],
+      "clickSelectors": [
+        "#registration"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "13-Sadhana Sangam - Accordian #3 - Eligibility for Receiving Kriya Yoga  / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/sadhana-sangams?10123",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#eligibility-for-receiving-kriya-yoga"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "13-Sadhana Sangam - Accordian #4 - Volunteers  / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/event/sadhana-sangams",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/event/sadhana-sangams?10124",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#volunteers"
+      ],
       "selectors": [
         "document"
       ],
