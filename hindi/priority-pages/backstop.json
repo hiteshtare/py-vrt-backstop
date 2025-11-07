@@ -400,11 +400,58 @@
       "misMatchThreshold": 5
     },
     {
-      "label": "33-Lessons Main Page / Hindi",
+      "label": "33-Lessons Main Page - Tab #1 - Start Your Journey on the Path  / Hindi",
       "referenceUrl": "https://yssofindia.org/hi/yss-lessons",
       "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/yss-lessons?4032",
       "hideSelectors": [],
       "removeSelectors": [],
+      "clickSelectors": [
+        "#startyourjourney"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "33-Lessons Main Page - Tab #2 - Kriya Yoga  / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/yss-lessons",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/yss-lessons?40322",
+      "hideSelectors": [],
+      "clickSelectors": [
+        "#kriyayoga"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "33-Lessons Main Page - Tab #3 - Apply Now  / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/yss-lessons",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/yss-lessons?40323",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#applynow"
+      ],
+      "selectors": [
+        "document"
+      ],
+      "delay": 15000,
+      "misMatchThreshold": 5
+    },
+    {
+      "label": "33-Lessons Main Page - Tab #4 - Digital App  / Hindi",
+      "referenceUrl": "https://yssofindia.org/hi/yss-lessons",
+      "url": "https://yssdev:Jaiguru@123!@test.yssofindia.org/hi/yss-lessons?40324",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "clickSelectors": [
+        "#digitalapp2"
+      ],
       "selectors": [
         "document"
       ],
